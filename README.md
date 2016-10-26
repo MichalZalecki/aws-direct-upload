@@ -1,16 +1,10 @@
-# React The Boring Part
-
-Setup for React apps. It's not going to force you to use any specific toolset/framework. Be free
-and make **your** choice. *React The Boring Part* is just a setup which allows you to develop
-and deploy app without pain. It's not a bare minimum, although I've tried to keep things simple.
-
-Working with Heroku/Dokku out of the box.
+# AWS Direct Upload
 
 ## Installation
 
 ```
 cp .env-example .env
-npm install
+yarn
 ```
 
 ## Usage
