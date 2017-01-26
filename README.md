@@ -1,5 +1,7 @@
 # AWS Direct Upload
 
+Example app and node server setup to perform direct upload to AWS from the browser
+
 ## Installation
 
 ```
